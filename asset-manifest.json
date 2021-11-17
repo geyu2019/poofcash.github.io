@@ -2,7 +2,7 @@
   "files": {
     "main~2a42e354.js": "./static/js/main~2a42e354.43bbe2a0.chunk.js",
     "main~31ecd969.css": "./static/css/main~31ecd969.fcc2c3c1.chunk.css",
-    "main~31ecd969.js": "./static/js/main~31ecd969.4b0ac437.chunk.js",
+    "main~31ecd969.js": "./static/js/main~31ecd969.adbd0d21.chunk.js",
     "main~41a6ab2c.js": "./static/js/main~41a6ab2c.4dca432a.chunk.js",
     "main~748942c6.css": "./static/css/main~748942c6.5a688da6.chunk.css",
     "main~748942c6.js": "./static/js/main~748942c6.d48eba0a.chunk.js",
@@ -14,7 +14,7 @@
     "index.html": "./index.html",
     "service-worker.js": "./service-worker.js",
     "static/js/main~2a42e354.43bbe2a0.chunk.js.LICENSE.txt": "./static/js/main~2a42e354.43bbe2a0.chunk.js.LICENSE.txt",
-    "static/js/main~31ecd969.4b0ac437.chunk.js.LICENSE.txt": "./static/js/main~31ecd969.4b0ac437.chunk.js.LICENSE.txt",
+    "static/js/main~31ecd969.adbd0d21.chunk.js.LICENSE.txt": "./static/js/main~31ecd969.adbd0d21.chunk.js.LICENSE.txt",
     "static/js/main~d939e436.19371a7f.chunk.js.LICENSE.txt": "./static/js/main~d939e436.19371a7f.chunk.js.LICENSE.txt",
     "static/js/main~fdadd360.abe1d8ca.chunk.js.LICENSE.txt": "./static/js/main~fdadd360.abe1d8ca.chunk.js.LICENSE.txt",
     "static/media/index.css": "./static/media/Regular.dd33bb0d.otf"
@@ -24,7 +24,7 @@
     "static/css/main~748942c6.5a688da6.chunk.css",
     "static/js/main~748942c6.d48eba0a.chunk.js",
     "static/css/main~31ecd969.fcc2c3c1.chunk.css",
-    "static/js/main~31ecd969.4b0ac437.chunk.js",
+    "static/js/main~31ecd969.adbd0d21.chunk.js",
     "static/js/main~41a6ab2c.4dca432a.chunk.js",
     "static/js/main~2a42e354.43bbe2a0.chunk.js",
     "static/js/main~d939e436.19371a7f.chunk.js",

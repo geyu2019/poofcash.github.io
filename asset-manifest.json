@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.fcc2c3c1.chunk.css",
-    "main.js": "./static/js/main.e5f996a8.chunk.js",
+    "main.js": "./static/js/main.cc4edf24.chunk.js",
     "runtime-main.js": "./static/js/runtime-main.9aa0c7d4.js",
     "static/css/2.2c8daab7.chunk.css": "./static/css/2.2c8daab7.chunk.css",
     "static/js/2.2bd050bb.chunk.js": "./static/js/2.2bd050bb.chunk.js",
@@ -14,7 +14,7 @@
     "static/css/main.fcc2c3c1.chunk.css.gz": "./static/css/main.fcc2c3c1.chunk.css.gz",
     "static/js/2.2bd050bb.chunk.js.gz": "./static/js/2.2bd050bb.chunk.js.gz",
     "static/js/3.cb27f9df.chunk.js.gz": "./static/js/3.cb27f9df.chunk.js.gz",
-    "static/js/main.e5f996a8.chunk.js.gz": "./static/js/main.e5f996a8.chunk.js.gz",
+    "static/js/main.cc4edf24.chunk.js.gz": "./static/js/main.cc4edf24.chunk.js.gz",
     "static/js/runtime-main.9aa0c7d4.js.gz": "./static/js/runtime-main.9aa0c7d4.js.gz",
     "static/media/index.css": "./static/media/Regular.dd33bb0d.otf",
     "static/media/Bold.72b8be67.otf.gz": "./static/media/Bold.72b8be67.otf.gz",
@@ -27,6 +27,6 @@
     "static/css/2.2c8daab7.chunk.css",
     "static/js/2.2bd050bb.chunk.js",
     "static/css/main.fcc2c3c1.chunk.css",
-    "static/js/main.e5f996a8.chunk.js"
+    "static/js/main.cc4edf24.chunk.js"
   ]
 }

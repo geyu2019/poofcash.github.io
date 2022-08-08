@@ -1,0 +1,59 @@
+@font-face {
+  font-family: "Regular";
+  src: local("Articulat CF"), url(../../static/media/Regular.dd33bb0d.otf) format("opentype");
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "Bold";
+  src: local("Articulat CF"), url(../../static/media/Bold.72b8be67.otf) format("opentype");
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "DemiBold";
+  src: local("Articulat CF"), url(../../static/media/DemiBold.b5cc6a50.otf) format("opentype");
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "Medium";
+  src: local("Articulat CF"), url(../../static/media/Medium.a75f14d8.otf) format("opentype");
+  font-weight: 500;
+}
+
+.toast-body {
+  background: var(--theme-ui-colors-box);
+}
+
+/* HACK: Fix title color in wallet modal */
+.tw-font-medium {
+  color: black;
+}
+
+/* HACK: Fix title color in wallet modal */
+.tw-text-lg {
+  color: black;
+}
+
+
+.example-enter {
+  opacity: 0.01;
+}
+
+.example-enter.example-enter-active {
+  opacity: 1;
+  transition: opacity 500ms ease-in;
+}
+
+.example-leave {
+  opacity: 1;
+}
+
+.example-leave.example-leave-active {
+  opacity: 0.01;
+  transition: opacity 300ms ease-in;
+}
+
+
+/*# sourceMappingURL=main.d6431ea0.chunk.css.map*/
